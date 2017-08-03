@@ -1,0 +1,18 @@
+{
+  "name": "elfinaldelparaiso",
+  "version": "0.0.1",
+  "description": "Aventura basada en texto y linea de comandos inspirada en Los Mitos de Cthulhu, de H.P. Lovecraft",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aventura",
+    "grafica"
+  ],
+  "author": "Guillermo Dieguez",
+  "license": "ISC",
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}
